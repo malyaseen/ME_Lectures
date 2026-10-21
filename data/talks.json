@@ -1,0 +1,72 @@
+{
+ "current": "fall26",
+ "semesters": [
+  {
+   "id": "fall26",
+   "name": "Fall 2026"
+  }
+ ],
+ "talks": [
+  {
+   "date": "2026-10-28",
+   "time": "12:30 PM",
+   "speaker": "Dr. Raed Bourisli",
+   "title": "Shaping Insulation for Even Heat Loss",
+   "subtitle": "A first-order nonlinear ODE framework for optimum pipeline insulation under spatially varying physical conditions",
+   "venue": "",
+   "flier": "raed",
+   "id": "t1",
+   "sem": "fall26"
+  },
+  {
+   "date": "2026-11-04",
+   "time": "12:30 PM",
+   "speaker": "Mohammed Alyaseen",
+   "title": "Methods for Safety Critical Control of Robotic Systems",
+   "subtitle": "",
+   "venue": "",
+   "id": "t2",
+   "sem": "fall26"
+  },
+  {
+   "date": "2026-11-09",
+   "time": "12:30 PM",
+   "speaker": "Omar Alali",
+   "title": "",
+   "subtitle": "",
+   "venue": "",
+   "id": "t3",
+   "sem": "fall26"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "12:30 PM",
+   "speaker": "Ali AlSaibie",
+   "title": "Hybrid Cable-Driven Aerial Robot: Design, Control, and Experimental Progress",
+   "subtitle": "",
+   "venue": "",
+   "id": "t4",
+   "sem": "fall26"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "12:30 PM",
+   "speaker": "Abdulhameed Abdal",
+   "title": "A Minimally Invasive, Suturable Platform for Brain Monitoring",
+   "subtitle": "",
+   "venue": "",
+   "id": "t5",
+   "sem": "fall26"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "12:30 PM",
+   "speaker": "Ahmed Bani-Mustafa",
+   "title": "From Simulation to Reality: Calibration, Uncertainty and Trustworthy Engineering Prediction",
+   "subtitle": "",
+   "venue": "",
+   "id": "t6",
+   "sem": "fall26"
+  }
+ ]
+}
